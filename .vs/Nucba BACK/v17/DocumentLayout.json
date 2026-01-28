@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Nucba BACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\contexto\\CarritoContexto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\contexto\\CarritoContexto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\contexto\\AutenticacionContexto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\contexto\\AutenticacionContexto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\api\\apiConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\api\\apiConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Productos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Productos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Nosotros.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Nosotros.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Ingreso.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Ingreso.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\rutas\\rutaProducto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\rutas\\rutaProducto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\rutas\\ordenRuta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\rutas\\ordenRuta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\rutas\\autorizacionRutas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\rutas\\autorizacionRutas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\Modelos\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Modelos\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\Modelos\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Modelos\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\Modelos\\ordenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Modelos\\ordenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\Middlewares\\validar-JWT.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Middlewares\\validar-JWT.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\controladores\\productoControl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\controladores\\productoControl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\controladores\\authcontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\controladores\\authcontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\basedatos\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\basedatos\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Registro.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Registro.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Pago.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Pago.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\cliente\\Paginas\\Carrito.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente\\Paginas\\Carrito.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Nucba BACK\\Server\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nosotros.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Nosotros.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Nosotros.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Nosotros.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Nosotros.jsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:20:13.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingreso.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Ingreso.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Ingreso.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Ingreso.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Ingreso.jsx",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:06:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productos.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Productos.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Productos.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Productos.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Productos.jsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:06:40.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apiConfig.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\api\\apiConfig.js",
+              "RelativeDocumentMoniker": "cliente\\api\\apiConfig.js",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\api\\apiConfig.js",
+              "RelativeToolTip": "cliente\\api\\apiConfig.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T03:35:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutenticacionContexto.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\contexto\\AutenticacionContexto.jsx",
+              "RelativeDocumentMoniker": "cliente\\contexto\\AutenticacionContexto.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\contexto\\AutenticacionContexto.jsx",
+              "RelativeToolTip": "cliente\\contexto\\AutenticacionContexto.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:12:21.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarritoContexto.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\contexto\\CarritoContexto.jsx",
+              "RelativeDocumentMoniker": "cliente\\contexto\\CarritoContexto.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\contexto\\CarritoContexto.jsx",
+              "RelativeToolTip": "cliente\\contexto\\CarritoContexto.jsx",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:15:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacto.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Contacto.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Contacto.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Contacto.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Contacto.jsx",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:19:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Inicio.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Inicio.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Inicio.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Inicio.jsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:07:22.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\main.jsx",
+              "RelativeDocumentMoniker": "cliente\\main.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\main.jsx",
+              "RelativeToolTip": "cliente\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T03:32:01.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\index.html",
+              "RelativeDocumentMoniker": "cliente\\index.html",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\index.html",
+              "RelativeToolTip": "cliente\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T02:20:21.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\index.js",
+              "RelativeDocumentMoniker": "Server\\index.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\index.js",
+              "RelativeToolTip": "Server\\index.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:27:17.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\eslint.config.js",
+              "RelativeDocumentMoniker": "Server\\eslint.config.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\eslint.config.js",
+              "RelativeToolTip": "Server\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:49:57.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rutaProducto.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\rutas\\rutaProducto.js",
+              "RelativeDocumentMoniker": "Server\\rutas\\rutaProducto.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\rutas\\rutaProducto.js",
+              "RelativeToolTip": "Server\\rutas\\rutaProducto.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:44:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ordenRuta.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\rutas\\ordenRuta.js",
+              "RelativeDocumentMoniker": "Server\\rutas\\ordenRuta.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\rutas\\ordenRuta.js",
+              "RelativeToolTip": "Server\\rutas\\ordenRuta.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:44:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "autorizacionRutas.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\rutas\\autorizacionRutas.js",
+              "RelativeDocumentMoniker": "Server\\rutas\\autorizacionRutas.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\rutas\\autorizacionRutas.js",
+              "RelativeToolTip": "Server\\rutas\\autorizacionRutas.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:37:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "usuario.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\Modelos\\usuario.js",
+              "RelativeDocumentMoniker": "Server\\Modelos\\usuario.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\Modelos\\usuario.js",
+              "RelativeToolTip": "Server\\Modelos\\usuario.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T00:08:31.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "producto.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\Modelos\\producto.js",
+              "RelativeDocumentMoniker": "Server\\Modelos\\producto.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\Modelos\\producto.js",
+              "RelativeToolTip": "Server\\Modelos\\producto.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T00:08:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ordenes.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\Modelos\\ordenes.js",
+              "RelativeDocumentMoniker": "Server\\Modelos\\ordenes.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\Modelos\\ordenes.js",
+              "RelativeToolTip": "Server\\Modelos\\ordenes.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T00:00:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "validar-JWT.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\Middlewares\\validar-JWT.js",
+              "RelativeDocumentMoniker": "Server\\Middlewares\\validar-JWT.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\Middlewares\\validar-JWT.js",
+              "RelativeToolTip": "Server\\Middlewares\\validar-JWT.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T00:08:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "productoControl.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\controladores\\productoControl.js",
+              "RelativeDocumentMoniker": "Server\\controladores\\productoControl.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\controladores\\productoControl.js",
+              "RelativeToolTip": "Server\\controladores\\productoControl.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T00:08:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "authcontrol.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\controladores\\authcontrol.js",
+              "RelativeDocumentMoniker": "Server\\controladores\\authcontrol.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\controladores\\authcontrol.js",
+              "RelativeToolTip": "Server\\controladores\\authcontrol.js",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:40:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "config.js",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\basedatos\\config.js",
+              "RelativeDocumentMoniker": "Server\\basedatos\\config.js",
+              "ToolTip": "F:\\Nucba BACK\\Server\\basedatos\\config.js",
+              "RelativeToolTip": "Server\\basedatos\\config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-26T00:53:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.css",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\App.css",
+              "RelativeDocumentMoniker": "cliente\\App.css",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\App.css",
+              "RelativeToolTip": "cliente\\App.css",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T02:14:26.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Registro.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Registro.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Registro.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Registro.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Registro.jsx",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T01:08:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pago.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Pago.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Pago.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Pago.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Pago.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:20:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\App.jsx",
+              "RelativeDocumentMoniker": "cliente\\App.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\App.jsx",
+              "RelativeToolTip": "cliente\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:17:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Carrito.jsx",
+              "DocumentMoniker": "F:\\Nucba BACK\\cliente\\Paginas\\Carrito.jsx",
+              "RelativeDocumentMoniker": "cliente\\Paginas\\Carrito.jsx",
+              "ToolTip": "F:\\Nucba BACK\\cliente\\Paginas\\Carrito.jsx",
+              "RelativeToolTip": "cliente\\Paginas\\Carrito.jsx",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-26T00:04:54.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": ".env",
+              "DocumentMoniker": "F:\\Nucba BACK\\Server\\.env",
+              "RelativeDocumentMoniker": "Server\\.env",
+              "ToolTip": "F:\\Nucba BACK\\Server\\.env",
+              "RelativeToolTip": "Server\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-26T01:02:20.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

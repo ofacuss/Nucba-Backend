@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cliente",
+    "\\cliente\\api",
+    "\\cliente\\Paginas",
+    "\\Server",
+    "\\Server\\basedatos",
+    "\\Server\\controladores",
+    "\\Server\\Middlewares",
+    "\\Server\\Modelos",
+    "\\Server\\rutas"
+  ],
+  "SelectedNode": "\\Server",
+  "PreviewInSolutionExplorer": false
+}
