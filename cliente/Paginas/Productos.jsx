@@ -20,7 +20,7 @@ const Productos = () => {
 const obtenerProductos = async () => {
     try {
         // Usamos axios pelado con la URL completa que SÍ funciona
-        const { data } = await axios.get('https://nucba-backendserver.vercel.app');
+        const { data } = await axios.get('https://nucba-backendserver.vercel.app/api');
         setListaProductos(data.productos);
     } catch (error) {
         console.error("Error al cargar productos:", error);
