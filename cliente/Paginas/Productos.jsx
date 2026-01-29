@@ -1,5 +1,6 @@
-import React, { useEffect, useState, useContext } from 'react';
 import axios from 'axios'; // Agregá esta importación arriba si no está
+import React, { useEffect, useState, useContext } from 'react';
+
 import api from '../api/apiConfig';
 import { CarritoContexto } from '../contexto/CarritoContexto';
 import { AutenticacionContexto } from '../contexto/AutenticacionContexto';
