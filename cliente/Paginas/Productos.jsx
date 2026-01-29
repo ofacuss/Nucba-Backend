@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
+import axios from 'axios'; // Agregá esta importación arriba si no está
 import api from '../api/apiConfig';
 import { CarritoContexto } from '../contexto/CarritoContexto';
 import { AutenticacionContexto } from '../contexto/AutenticacionContexto';
@@ -14,17 +15,16 @@ const Productos = () => {
     const { usuario } = useContext(AutenticacionContexto);
     // useEffect
     useEffect(() => {
-        const obtenerProductos = async () => {
-            // Petición GET
-            try {
-                const { data } = await api.get('https://nucba-backendserver.vercel.app/api/products');
-                // Guardamos en el estado
-                setListaProductos(data.productos);
-            } catch (error) {
-                // Manejo de errores
-                console.error("Error al cargar productos:", error);
-            }
-        };
+     // ... dentro del useEffect:
+const obtenerProductos = async () => {
+    try {
+        // Usamos axios pelado con la URL completa que SÍ funciona
+        const { data } = await axios.get('https://nucba-backendserver.vercel.app');
+        setListaProductos(data.productos);
+    } catch (error) {
+        console.error("Error al cargar productos:", error);
+    }
+};
         obtenerProductos();
     }, []);
     // Estilos cards y mapeado
