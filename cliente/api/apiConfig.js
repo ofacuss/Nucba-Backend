@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api'
+    baseURL: 'https://nucba-backendserver.vercel.app/api'
 });
 
 // Este interceptor ayudará a enviar el token automáticamente en el futuro
