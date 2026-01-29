@@ -17,7 +17,7 @@ const Productos = () => {
         const obtenerProductos = async () => {
             // Petición GET
             try {
-                const { data } = await api.get('https://nucba-backendserver.vercel.app');
+                const { data } = await api.get('https://nucba-backendserver.vercel.app/api');
                 // Guardamos en el estado
                 setListaProductos(data.productos);
             } catch (error) {
