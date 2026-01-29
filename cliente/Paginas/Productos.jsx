@@ -1,34 +1,26 @@
-import axios from 'axios'; // Agregá esta importación arriba si no está
 import React, { useEffect, useState, useContext } from 'react';
-
-import api from '../api/apiConfig';
+import api from '../api/apiConfig'; // Importamos el mismo archivo que en Inicio
 import { CarritoContexto } from '../contexto/CarritoContexto';
-import { AutenticacionContexto } from '../contexto/AutenticacionContexto';
-/**
- * Componente funcional Productos
- * Renderiza la tienda del vivero obteniendo los datos desde la API
- */ 
+
 const Productos = () => {
-    // Estado local para almacenar los productos que vienen de la base de datos
-    const [listaProductos, setListaProductos] = useState([]);
-    //(Carrito y Autenticación)
     const { agregarAlCarrito } = useContext(CarritoContexto);
-    const { usuario } = useContext(AutenticacionContexto);
-    // useEffect
+    const [listaProductos, setListaProductos] = useState([]);
+
     useEffect(() => {
-     // ... dentro del useEffect:
-const obtenerProductos = async () => {
-    try {
-        // Usamos axios pelado con la URL completa que SÍ funciona
-        const { data } = await axios.get('/products');
-        setListaProductos(data.productos);
-    } catch (error) {
-        console.error("Error al cargar productos:", error);
-    }
-};
-        obtenerProductos();
+        const cargarProductos = async () => {
+            try {
+                // Usamos la misma ruta relativa que te funcionó en Inicio
+                const { data } = await api.get('/products');
+                
+                // En Inicio hacías .slice(0,3), acá traemos todos:
+                setListaProductos(data.productos);
+            } catch (error) {
+                console.error("Error al cargar productos:", error);
+            }
+        };
+        cargarProductos();
     }, []);
-    // Estilos cards y mapeado
+
     return (
         <div style={{ padding: '40px', maxWidth: '1200px', margin: '0 auto' }}>
             <h2 style={{ textAlign: 'center', marginBottom: '40px', color: '#1b5e20', fontSize: '2.5rem' }}>
@@ -42,77 +34,53 @@ const obtenerProductos = async () => {
             }}>
                 {listaProductos.map((producto) => (
                     <div key={producto._id} style={{
-                        border: '1px solid #eee',
-                        borderRadius: '16px',
+                        backgroundColor: 'white',
                         padding: '20px',
+                        borderRadius: '15px',
+                        boxShadow: '0 10px 20px rgba(0,0,0,0.05)',
                         textAlign: 'center',
-                        backgroundColor: '#fff',
-                        boxShadow: '0 10px 15px -3px rgba(0,0,0,0.1)',
                         display: 'flex',
                         flexDirection: 'column',
                         justifyContent: 'space-between',
-                        transition: 'transform 0.2s'
-                    }}
-                        className="tarjeta-producto"
-                    >
-                        {}
-                        <div style={{
-                            width: '100%',
-                            height: '250px',
-                            overflow: 'hidden',
-                            borderRadius: '12px',
-                            marginBottom: '15px',
-                            backgroundColor: '#f9f9f9'
-                        }}>
+                        border: '1px solid #f0f0f0'
+                    }}>
+                        <div style={{ width: '100%', height: '240px', overflow: 'hidden', borderRadius: '10px', marginBottom: '15px' }}>
                             <img
                                 src={producto.imagen || 'https://via.placeholder.com'}
                                 alt={producto.nombre}
-                                style={{
-                                    width: '100%',
-                                    height: '100%',
-                                    objectFit: 'cover', 
-                                    objectPosition: 'center'
-                                }}
+                                style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                             />
                         </div>
 
-                        {}
-                        <div style={{ flexGrow: 1, display: 'flex', flexDirection: 'column' }}>
-                            <h3 style={{ margin: '10px 0', fontSize: '1.4rem', color: '#2c3e50' }}>
-                                {producto.nombre}
-                            </h3>
-
+                        <div style={{ flexGrow: 1 }}>
+                            <h3 style={{ fontSize: '1.3rem', margin: '10px 0' }}>{producto.nombre}</h3>
                             <p style={{
-                                color: '#666',
-                                fontSize: '0.95rem',
-                                height: '45px', 
+                                color: '#777',
+                                fontSize: '0.9rem',
+                                height: '40px',
                                 overflow: 'hidden',
                                 display: '-webkit-box',
-                                WebkitLineClamp: 2, 
-                                WebkitBoxOrient: 'vertical',
-                                marginBottom: '15px'
+                                WebkitLineClamp: 2,
+                                WebkitBoxOrient: 'vertical'
                             }}>
                                 {producto.descripcion}
                             </p>
                         </div>
 
-                        {}
-                        <p style={{ fontSize: '1.5rem', fontWeight: 'bold', color: '#2e7d32', marginBottom: '15px' }}>
+                        <p style={{ fontWeight: 'bold', color: '#2e7d32', fontSize: '1.4rem', margin: '15px 0' }}>
                             ${producto.precio}
                         </p>
 
                         <button
                             onClick={() => agregarAlCarrito(producto)}
                             style={{
-                                width: '100%',
-                                padding: '12px',
                                 backgroundColor: '#20232a',
                                 color: 'white',
                                 border: 'none',
+                                padding: '12px',
                                 borderRadius: '8px',
                                 cursor: 'pointer',
                                 fontWeight: 'bold',
-                                fontSize: '1rem',
                                 transition: 'background 0.3s'
                             }}
                             onMouseOver={(e) => e.target.style.backgroundColor = '#1b5e20'}
@@ -128,3 +96,4 @@ const obtenerProductos = async () => {
 };
 
 export default Productos;
+
