@@ -17,7 +17,7 @@ const Productos = () => {
         const obtenerProductos = async () => {
             // Petición GET
             try {
-                const { data } = await api.get('/products');
+                const { data } = await api.get('api/products');
                 // Guardamos en el estado
                 setListaProductos(data.productos);
             } catch (error) {
