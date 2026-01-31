@@ -20,7 +20,7 @@ const AcercaDe = () => {
                 {}
                 <div style={{ flex: '1 1 400px' }}>
                     <img
-                        src="/Public/Nosotros.JPG"
+                        src="/Nosotros.JPG"
                         alt="Nuestro equipo de trabajo"
                         style={{ width: '100%', borderRadius: '12px', boxShadow: '0 10px 20px rgba(0,0,0,0.1)' }}
                     />
