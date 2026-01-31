@@ -4,7 +4,7 @@ const api = axios.create({
     baseURL: 'https://nucba-backendserver.vercel.app/api'
 });
 
-// Este interceptor ayudará a enviar el token automáticamente en el futuro
+// Envio de TOKEN!!!
 api.interceptors.request.use((configuracion) => {
     const token = localStorage.getItem('token');
     if (token) {
