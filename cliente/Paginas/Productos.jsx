@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
-import api from '../api/apiConfig'; // Importamos el mismo archivo que en Inicio
+import api from '../api/apiConfig'; // Se importa el archivo del inicio
 import { CarritoContexto } from '../contexto/CarritoContexto';
 
 const Productos = () => {
@@ -9,10 +9,10 @@ const Productos = () => {
     useEffect(() => {
         const cargarProductos = async () => {
             try {
-                // Usamos la misma ruta relativa que te funcionó en Inicio
+                // Get de productos, con el useEffect
                 const { data } = await api.get('/products');
                 
-                // En Inicio hacías .slice(0,3), acá traemos todos:
+                //Catch al error y console log si lo hay.
                 setListaProductos(data.productos);
             } catch (error) {
                 console.error("Error al cargar productos:", error);
