@@ -24,7 +24,7 @@ const BarraNavegacion = () => {
         <nav className="barra-navegacion">
             <div className="barra-marca">
                 <div className="grupo-marca">
-                    <img src="/Public/logo.png" alt="Logo Vivero" className="logo-navegacion" />
+                    <img src="/logo.png" alt="Logo Vivero" className="logo-navegacion" />
                     <h2 className="titulo-marca">Raíces</h2>
                 </div>
 
