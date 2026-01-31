@@ -26,7 +26,7 @@ const Inicio = () => {
             {}
             <section style={{
                 height: '75vh',
-                backgroundImage: 'linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/Public/Hero2.jpg")',
+                backgroundImage: 'linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/Hero2.jpg")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 display: 'flex',
